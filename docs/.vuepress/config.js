@@ -11,7 +11,6 @@ module.exports = {
                 text: 'xiye的博客',
                 items: [
                     { text: 'Github', link: 'https://github.com/xiyeeee' },
-                    { text: 'Github', link: 'https://github.com/xiyeeee' },
                 ]
             }
         ],
