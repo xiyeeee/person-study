@@ -1,5 +1,5 @@
 module.exports = {
-    base:'/person-study',
+    base:'/',
     theme: 'reco',
     title: '学习',
     description: '一个学习博客',
